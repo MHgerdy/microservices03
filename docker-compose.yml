@@ -6,4 +6,4 @@ services:
       context: ./
       dockerfile: Dockerfile
     ports:
-      - 8082:8082
+      - 18081:18081
